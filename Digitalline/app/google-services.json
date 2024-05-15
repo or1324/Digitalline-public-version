@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749727971316",
+    "project_id": "digitalline-ed441",
+    "storage_bucket": "digitalline-ed441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749727971316:android:7e48e3ad9bcb9bb359aba1",
+        "android_client_info": {
+          "package_name": "com.example.digitalline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749727971316-s79o9v73itn17hbrvmo7u5j8rjedtluc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalline",
+            "certificate_hash": "134f1742fa30d94dc1692930b9836931ee143de1"
+          }
+        },
+        {
+          "client_id": "749727971316-o4632pm1mif3cm3su3kq4jr0vb1kc5lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9umtUM7bahnoGJbGNE4hhx1lhHDwleI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749727971316-o4632pm1mif3cm3su3kq4jr0vb1kc5lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

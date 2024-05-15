@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dp"
+    tools:context=".TopBarFragment">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/back"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/app_button"
+        android:visibility="gone"
+        android:text="back"
+        android:layout_gravity="left"
+        android:autoSizeTextType="uniform" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/logout"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/app_button"
+        android:text="logout"
+        android:visibility="gone"
+        android:layout_gravity="right"
+        android:autoSizeTextType="uniform" />
+
+
+</FrameLayout>
